@@ -106,7 +106,7 @@
             $mail->Password = $matkhau;   // SMTP password
             $mail->setFrom($nguoigui, $tennguoigui); //mail và tên người nhận 
             $to = $email; // Email cần gửi đến lấy từ form nhập
-            $to_name = "Nguyễn Đăng Thành"; // Tên người cần gửi đến
+            $to_name = "Tanhihi"; // Tên người cần gửi đến
 
             // Content 
             $mail->addAddress($to, $to_name); //mail và tên người nhận  
