@@ -122,7 +122,7 @@ require_once('database/dbhelper.php');
                     <!-- end comment -->
                     <section class="restaurants">
                         <div class="title">
-                            <h1>Thực đơn tại quán <span class="green">Thành Coffee</span></h1>
+                            <h1>Thực đơn tại quán <span class="green">Tanhihi</span></h1>
                         </div>
                         <div class="product-restaurants">
                             <div class="row">
